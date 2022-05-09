@@ -32,8 +32,8 @@ public class SwaggerConfiguration {
 	}
 
 	private ApiInfo apiInfo() {
-		return new ApiInfo("Ecommerce Telenet",
-				"Servicio de Gestión de Productos", "v1.0", "Todos los derechos otorgados",
+		return new ApiInfo("Storage Example",
+				"Dev Jr Back End ", "v1.0", "Learning about Tecnology",
 				new Contact("Romina Andrea Corsiglia", "https://github.com/RominaDev", "de15romyna@gmail.com"),
 				"Licencia del API", "https://github.com/RominaDev", Collections.emptyList());
 	}
